@@ -1,3 +1,3 @@
 #Creative Button
 
-<img src="crative-button.gif"/>
+<img src="creative-button.gif"/>
